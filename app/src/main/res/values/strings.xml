@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">ShoeMate</string>
+
+    <!--region Screen Titles-->
+    <string name="title_login_screen">Login</string>
+    <string name="title_welcome_screen">Welcome</string>
+    <string name="title_instruction_screen">Instructions</string>
+    <string name="title_list_screen">Shoes</string>
+    <string name="title_details_screen">Shoe Detail</string>
+    <!--endregion Screen Titles-->
+
+    <!--region Image Description-->
+    <string name="login_image_description">Login Image</string>
+    <string name="shoe_image_description">Shoe Image</string>
+    <string name="add_shoe_floating_button_description">Add Shoe Button</string>
+    <!--endregion-->
+
+    <!--region Button Texts-->
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_login">Login</string>
+    <string name="button_new_login">New Login</string>
+    <string name="button_launch">Launch</string>
+    <!--endregion-->
+
+    <!--region Labels-->
+    <string name="on_boarding_message">SHOE MATE</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
+    <string name="manage_your_shoes_elegantly">Manage your shoes elegantly</string>
+    <string name="welcome_image">welcome_image</string>
+    <string name="currency">$ %s</string>
+    <string name="description">Description</string>
+    <string name="size">Size</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="instructions_title">Add Shoes</string>
+    <string name="floating_button_add_shoe_content_description">Floating Add Shoe Button</string>
+    <string name="instructions">Add new shoes to the inventory by clicking on the add (+) button, add your unlimited shoes to the inventory.</string>
+    <string name="my_collection">My Collection</string>
+    <!--endregion-->
+</resources>
